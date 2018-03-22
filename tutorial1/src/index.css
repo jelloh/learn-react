@@ -15,11 +15,14 @@ body {
   
   .status {
     margin-bottom: 10px;
+    /* hehe */
+    color: #f5823d;
   }
   
   .square {
     background: #fff;
-    border: 1px solid #999;
+    /* hehe */
+    border: 1px solid #f5823d;
     float: left;
     font-size: 24px;
     font-weight: bold;
